@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>initial clean up</div>
+    <div>Honhnii bayaraa yaj temdegleh ve?</div>
   );
 }
 
