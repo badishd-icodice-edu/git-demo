@@ -9,6 +9,7 @@ function App() {
 
   <div>Muugii uuruu muchir yum</div>
   <div> Namriin nalgar udur ch saihan shu </div>
+  <div> Nasnii namaraaa gadaaa ireheeeed </div>
   
   
   </>
