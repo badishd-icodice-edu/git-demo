@@ -12,8 +12,8 @@ function App() {
   <div> Namriin nalgar udur ch saihan shu </div>
   <div> Nasnii namaraaa gadaaa ireheeeed </div>
   <div>Togloogui bna dadaav hahahah</div>
+  fghfgh
   </div>
-
   
   
   
