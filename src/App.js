@@ -7,6 +7,7 @@ function App() {
       WHAAAAT!
       <>useReducer uzyaa</>
       aaa
+    dit form github
     </div>
   );
 }
