@@ -15,8 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          <>togloh u </>
+          Duulah u?
+        
         </a>
       </header>
     </div>
