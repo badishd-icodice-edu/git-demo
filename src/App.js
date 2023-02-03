@@ -4,7 +4,22 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      I'm Hulguu haha
+      <header className="App-header">
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+          goy duulii
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Duulah u?
+        
+        </a>
+      </header>
     </div>
   );
 }
