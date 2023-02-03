@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Luuvan!!!
+          Duulah u?
+        
         </a>
       </header>
     </div>
