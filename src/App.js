@@ -6,6 +6,7 @@ function App() {
     <div>initial clean up</div>
     <div>I am sophie!</div>
     <div>muuhai code</div>
+    <div>Honhnii bayaraa yaj temdegleh ve?</div>
     </>
   );
 }
