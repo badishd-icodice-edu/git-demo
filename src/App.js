@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>muuhai code</div>
+    <div>Muchirnii navch goydoo</div>
   );
 }
 
