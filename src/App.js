@@ -8,6 +8,9 @@ function App() {
       <>useReducer uzyaa</>
       aaa
     dit form github
+    WHAAAAT!
+  useReducer uzyaa
+  <div>sheeesh!</div>
     </div>
   );
 }
